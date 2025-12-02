@@ -1,5 +1,5 @@
 # Hi, I’m Rishit Thakur 👋  
-**Full-stack web developer | MERN & TypeScript | 
+Full-stack web developer | MERN & TypeScript | 
 
 ## 🔧 What I do  
 - Build clean, production-ready web applications (MERN + TS)  
@@ -10,7 +10,6 @@
 |--------|--------------------------------------------------------|  
 | **Zenith-MERN-Todo-App** | Full-stack TODO + auth + REST + deployment. Learned … / Demo: link |  
 | **rajat-singh-portfolio** | Responsive TS/React portfolio to showcase projects |  
-| **…**  | … |  
 
 *(Add 2-3 more diverse projects: UI-heavy, backend-heavy, maybe small experimental or creative projects)*  
 
