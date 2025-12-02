@@ -1,45 +1,29 @@
-<!-- headline -->
-<h1 align="center">Hi — I'm Rishit 👋</h1>
-<p align="center">Software engineer • MERN & TypeScript • Building clean, production-minded web apps</p>
+# Hi, I’m Rishit Thakur 👋  
+**Full-stack web developer | MERN & TypeScript | Composer & Music-Tech Enthusiast**
 
----
+## 🔧 What I do  
+- Build clean, production-ready web applications (MERN + TS)  
+- Craft UI/UX-driven interfaces + backend APIs  
+- Mix interests in music & code: exploring audio-web integrations / side-projects  
 
-## About
-- 📍 Based in India
-- 🧰 Main stack: **MongoDB • Express • React • Node • TypeScript**
-- 🔭 Currently: polishing my portfolio & shipping a realtime MERN app
-- 🎧 Also learning composition & music production
+## 📂 Selected Projects  
+| Project | What it does / Tech stack / What I learned / Demo link |  
+|--------|--------------------------------------------------------|  
+| **Zenith-MERN-Todo-App** | Full-stack TODO + auth + REST + deployment. Learned … / Demo: link |  
+| **[Portfolio Site]** | Responsive TS/React portfolio to showcase projects |  
+| **…**  | … |  
 
----
+*(Add 2-3 more diverse projects: UI-heavy, backend-heavy, maybe small experimental or creative projects)*  
 
-## Highlights
-- 🔹 Built **zenith-mern-todo-app** — production-minded todo app (Auth, REST, deployment).  
-  _See pinned repo for demo and source._
-- 🔹 Built a TypeScript portfolio site (clean, component-driven).
+## 🛠 Tech & Tools  
+JavaScript · TypeScript · React · Node · Express · MongoDB · Git · Docker basics · …  
 
----
+## 🚀 What I’m up to / Looking for  
+- Open to freelance / contract or collaboration on interesting web-apps / tools  
+- Learning advanced TypeScript, audio processing + music-web integrations  
+- Open for mentorship / code reviews / open-source collabs  
 
-## Projects worth opening
-- **Portfolio** — `rajat-singh-portfolio` — clean showcase, responsive, modern CSS.  
-- **zenith-mern-todo-app** — full-stack MERN app with auth and CRUD.
-
-> Visit my pinned repos to explore code, demos and setup instructions.
-
----
-
-## Skills
-**Languages:** JavaScript, TypeScript, SQL basics  
-**Frontend:** React, CSS, responsive UI  
-**Backend:** Node, Express, MongoDB  
-**Dev tools:** Git, Docker basics, VS Code
-
----
-
-## How to connect
-- Email: iamrishit8@gmail.com
-- Twitter / X: `@iamrishit8` *(optional)*
-
----
-
-## Quick stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrishit8&show_icons=true&count_private=true)
+## 📫 Contact  
+- Email: iamrishit8@gmail.com  
+- Twitter / X: @iamrishit8
+- LinkedIn: @iamrishit8
