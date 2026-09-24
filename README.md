@@ -1,19 +1,25 @@
-# Hi, I’m Rishit Thakur 👋  
-Full-stack web developer | MERN & TypeScript | 
+Hi, I'm Rishit Thakur 👋
 
-## 🔧 What I do  
-- Build clean, production-ready web applications (MERN + TS)  
-- Craft UI/UX-driven interfaces + backend APIs  
+Backend-leaning full-stack developer building real-time, systems-heavy products — 
+IoT data pipelines, live video/messaging platforms, and scalable backend infra.
 
-## 🛠 Tech & Tools  
-JavaScript · TypeScript · React · Node · Express · MongoDB · Git 
+## 🔧 What I do
+- Build production backend systems handling real-time data (MQTT, WebSockets, Socket.io)
+- Build full-stack products end-to-end — React/TypeScript frontends, Node.js/Express/tRPC backends
+- Design infra around queues, caching, and media pipelines (Redis, BullMQ, Docker, FFmpeg)
 
-## 🚀 What I’m up to / Looking for  
-- Open to freelance / contract or collaboration on interesting web-apps / tools  
-- Learning advanced TypeScript
-- Open for mentorship / code reviews / open-source collabs  
+## 🛠️ Tech & Tools
+**Languages:** TypeScript · JavaScript · C++ · Python
+**Frontend:** React.js · Tailwind CSS · Zustand · TanStack Query
+**Backend:** Node.js · Express.js · tRPC · Socket.io · WebRTC · MQTT · JWT Auth
+**Infra & DB:** MongoDB · MySQL · Redis · BullMQ · MinIO · Docker
 
-## 📫 Contact  
-- Email: iamrishit8@gmail.com  
-- Twitter / X: @iamrishit8
+## 🚀 Currently
+- Building backend services for **FactOS**, an Industrial IoT platform, at **Dalnex**
+- Shipped **WhisperNet** — an anonymous campus social platform, live at whispernet-ten.vercel.app
+- Building **Lire** — a multi-tenant LMS with adaptive video streaming
+
+## 📬 Contact
+- Email: iamrishit8@gmail.com
+- Twitter/X: @iamrishit8
 - LinkedIn: @iamrishit8
